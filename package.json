@@ -1,0 +1,28 @@
+{
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "description": "DevOps Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s566466div/devops-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s566466div/devops-demo/issues"
+  },
+  "homepage": "https://github.com/s566466div/devops-demo#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-scripts": "^5.0.1"
+  }
+}
